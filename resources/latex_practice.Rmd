@@ -1,0 +1,29 @@
+---
+title: "latex practice"
+author: "Hamdan Alhammadi"
+date: "2025-10-13"
+output: pdf_document
+---
+
+
+Hi, my name is hamdan 
+
+I am here
+
+
+```{r}
+data <- read.table("https://azmet.arizona.edu/azmet/data/0124rd.txt", 
+                   header = TRUE, sep = ",", fill = TRUE)
+head(data)
+summary(data)
+
+```
+
+```{r}
+
+data <- read.table('https://azmet.arizona.edu/azmet/data/0125em.txt', 
+                   header = TRUE, sep = ",", fill = TRUE)
+head(data)
+summary(data)
+```
+
