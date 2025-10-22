@@ -9,7 +9,7 @@ Suggested Templating
 ## Name of Tool/Resource
 - Link: [URL here]
 - Description:
-     - 2-3 sentences about what this resource is and what it covers.
+     - A template for making a decision tree in R
 - Why it's useful:
      - Explain when you would use this or what problem it solves.
 - Example/Notes:
