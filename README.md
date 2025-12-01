@@ -4,6 +4,7 @@ Fall 2025 Data 498 Repository
 Contributors:
 - Taryn Laird
 - Joe Watkins
+- Hamdan khaled
 - Matthew Jensen
 - Anay Patel
 - Jenny Geng
