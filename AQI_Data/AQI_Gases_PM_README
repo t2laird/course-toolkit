@@ -1,0 +1,33 @@
+AQI Daily Gases and Particulate Matter README
+
+Data Dictionary:
+
+
+Parameter.Name: Name of the pollutant being measured
+
+Pollutant.Standard: Standard that the measurement is being compared against 
+  (ex: Ozone 8-hour 2015 means that the measurement was taken in an 8 hour average and the standard was set in 2015. That standard is 70 parts per billion)
+
+Date.Local: Date of when the measurement was taken (local date of measurement station)
+
+Units.of.Measure: Units of the measurement taken (parts per million or parts per billion for gases. Micrograms per cubic meter (LC or 25C) for particulate matter)
+
+Event.Type: Whether an exceptional event occured in the area that day (like a wildfire) and if the data point contributed to the AQI calculation for that day despite the event (included means it was included in AQI calculation, excluded means it wasn't, none means no event)
+
+Arithmetic.Mean: Mean of the measurement
+
+X1st.Max.Value: First daily maximum concentration value recorded for a specific pollutant at a given station on a given day (generally, but not always, corresponds to AQI for the day in the area)
+
+X1st.Max.Hour: Hour at which the first maximum occurred
+
+AQI: Air quality calculated for that pollutant for that day in that local site
+
+Local.Site.Name: Name of the local site of the measurement station
+
+Address: Address of the measurement station
+
+State.Name: State of the measurement station (Arizona)
+
+County.Name: County of the measurement station
+
+CBSA.Name: Core Based Statistical Area (metropolitan area) of the measurement station
