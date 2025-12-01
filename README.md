@@ -5,6 +5,7 @@ Contributors:
 - Taryn Laird
 - Joe Watkins
 - Kendal McCall
+- Hamdan khaled
 - Matthew Jensen
 - Anay Patel
 - Jenny Geng
