@@ -31,3 +31,7 @@ State.Name: State of the measurement station (Arizona)
 County.Name: County of the measurement station
 
 CBSA.Name: Core Based Statistical Area (metropolitan area) of the measurement station
+
+Latitude: Latitiude of the station where the measurement was taken
+
+Longitude: Longitude of the station where the measurement was taken
